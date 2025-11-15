@@ -11,3 +11,12 @@ Highlights
 ⚠️ Disclaimer
 
 Fan-made project for learning and portfolio purposes only. Not affiliated with Netflix.
+
+ page link: https://guilhermedev25.github.io/Stranger-Things-Fan-Project/
+
+
+
+
+
+https://github.com/user-attachments/assets/87a575a6-3070-4eb1-97f8-19b97851a8c6
+
